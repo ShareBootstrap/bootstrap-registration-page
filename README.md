@@ -6,7 +6,7 @@ Author [sharebootstrap](https://sharebootstrap.com)
 
 ## Demo
 
-[See it live](https://sharebootstrap.com/free-bootstrap-registartion-template/)
+[See it live](https://sharebootstrap.com/registro-free-bootstrap-registration-form/)
 
 
 
